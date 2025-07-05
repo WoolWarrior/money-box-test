@@ -1,8 +1,8 @@
-import logo from '@assets/logo.svg' 
+import logo from '@/assets/logo.svg' 
 
 function Header() {
   return (
-    <div className='h-16 flex items-center justify-center bg-pink-200'>
+    <div className='h-16 flex items-center justify-center' data-testid="header">
       <img className='h-10' src={logo} alt='moneybox logo' />
     </div>
   )

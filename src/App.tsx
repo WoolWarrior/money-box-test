@@ -1,5 +1,5 @@
-import Header from './Components/Header';
-import Body from './Components/Body';
+import Header from '@/components/Header/Header';
+import Body from '@/components/Body/Body';
 
 function App() {
 

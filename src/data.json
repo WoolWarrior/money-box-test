@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Investing",
+    "products": [
+      {
+        "name": "Stocks & Shares ISA",
+        "icon": "stocks_shares_isa.svg",
+        "description": "An ISA account for managing your investments."
+      },
+      {
+        "name": "General Investment Account",
+        "icon": "general_investment_account.svg",
+        "description": "An account for general investments."
+      },
+      {
+        "name": "Junior ISA",
+        "icon": "junior_isa.svg",
+        "description": "An ISA account for children under 18."
+      }
+    ]
+  },
+  {
+    "name": "Saving",
+    "products": [
+      {
+        "name": "Cash ISA",
+        "icon": "cash_isa.svg",
+        "description": "A cash ISA account with easy access to funds."
+      },
+      {
+        "name": "Open Access ISA",
+        "icon": "open_access_cash_isa.svg",
+        "description": "An ISA account with open access to funds."
+      },
+      {
+        "name": "Simple Saver",
+        "icon": "simple_saver.svg",
+        "description": "A simple saving account."
+      },
+      {
+        "name": "32 Day Notice",
+        "icon": "32_day_notice.svg",
+        "description": "A saving account with 32-day notice period."
+      },
+      {
+        "name": "95 Day Notice",
+        "icon": "95_day_notice.svg",
+        "description": "A saving account with 95-day notice period."
+      }
+    ]
+  },
+  {
+    "name": "Home-buying",
+    "products": [
+      {
+        "name": "Lifetime ISA",
+        "icon": "lifetime_isa.svg",
+        "description": "An ISA designed to help first-time buyers save for a deposit."
+      }
+    ]
+  },
+  {
+    "name": "Retirement",
+    "products": [
+      {
+        "name": "Personal Pension",
+        "icon": "personal_pension.svg",
+        "description": "A pension account for retirement savings."
+      }
+    ]
+  }
+]
