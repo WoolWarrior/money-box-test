@@ -1,20 +1,12 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Header from './Components/Header';
+import Body from './Components/Body';
 
 function App() {
 
   return (
     <>
-      <div className='flex'>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo}  alt="React logo" />
-        </a>
-      </div>
-
+      <Header/>
+      <Body/>
     </>
   )
 }
